@@ -1,0 +1,7 @@
+*.pyc
+entries/
+studies/
+protabank_studies/
+not_submitted_studies.txt
+submitted_studies.txt
+
