@@ -1,0 +1,16 @@
+appdirs==1.4.3
+Beaker==1.9.1
+biopython==1.72
+certifi==2017.4.17
+chardet==3.0.4
+funcsigs==1.0.2
+idna==2.7
+Mako==1.0.7
+MarkupSafe==1.0
+numpy==1.14.5
+packaging==16.8
+psycopg2==2.7.3.2
+pyparsing==2.2.0
+requests==2.19.1
+six==1.10.0
+urllib3==1.23
